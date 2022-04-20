@@ -13,3 +13,17 @@ A program that executes trades on stocks that are being talked about on the inte
 
 
 ![Flowchart](https://github.com/jarrettdev/Data-Driven-Trading/blob/master/resources/Flowchart.png)
+
+
+## Usage
+
+- [Setup Alpaca API keys](https://github.com/alpacahq/alpaca-trade-api-python '')
+- [Setup Reddit API keys](https://old.reddit.com/prefs/apps/'')
+- [Setup Airtable API keys](https://airtable.com'') (optional step, data is stored locally)
+- git clone https://github.com/jarrettdev/Data-Driven-Trading/
+- Create a virtualenv
+    - python3 -m venv venv
+- Activate venv
+    - source venv/bin/activate on mac/linux
+- Start program
+    - python3 reddit_stocks_comment_watch.py
