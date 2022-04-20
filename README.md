@@ -27,3 +27,5 @@ A program that executes trades on stocks that are being talked about on the inte
     - source venv/bin/activate on mac/linux
 - Start program
     - python3 reddit_stocks_comment_watch.py
+
+Reach out if you need help setting this up.
