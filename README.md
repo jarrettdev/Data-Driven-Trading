@@ -13,5 +13,3 @@ A program that executes trades on stocks that are being talked about on the inte
 
 
 ![Flowchart](https://github.com/jarrettdev/Data-Driven-Trading/blob/master/resources/Flowchart.png)
-
-## Integrations
