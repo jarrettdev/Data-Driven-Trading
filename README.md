@@ -1,5 +1,6 @@
 # Data-Driven-Trading
 
+![Flowchart](https://github.com/jarrettdev/Data-Driven-Trading/blob/master/resources/Flowchart.png)
 A program that executes trades on stocks that are being talked about on the internet.
 
 # Integrations
@@ -11,8 +12,6 @@ A program that executes trades on stocks that are being talked about on the inte
 
 [Alpaca](https://alpaca.markets/ '') - Execute trades (Paper and Live accounts)
 
-
-![Flowchart](https://github.com/jarrettdev/Data-Driven-Trading/blob/master/resources/Flowchart.png)
 
 
 ## Usage
